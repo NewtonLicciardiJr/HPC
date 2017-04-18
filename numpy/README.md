@@ -1,3 +1,7 @@
+# Enable MKL Debug
+
+* export MKL_VERBOSE=1
+
 # Disable MKL offload
 
 * export MKL_MIC_ENABLE=0
