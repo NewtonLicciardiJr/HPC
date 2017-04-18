@@ -16,7 +16,11 @@
 
 * export OFFLOAD_DEVICES=
 
-# Define the maximum amount of threads that will be used by MKL
+# Define the maximum amount of threads that will be used by MKL on host
+
+* export OMP_NUM_THREADS=<value>
+
+# Define the maximum amount of threads that will be used by MKL on coprocessors
 
 * export MIC_OMP_NUM_THREADS=<value>
 * export MIC_<number>_OMP_NUM_THREADS=<value>
