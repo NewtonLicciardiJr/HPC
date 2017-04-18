@@ -29,3 +29,5 @@
 # Evaluation of Intel MKL
 https://software.intel.com/en-us/articles/numpyscipy-with-intel-mkl
 
+# define threshlod limits MKL_MIC_THRESHOLDS_?GEMM m,n,k
+* export MKL_MIC_THRESHOLDS_DGEMM=2000,1000,500
