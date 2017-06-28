@@ -665,7 +665,7 @@ static const char __pyx_k_latitude2[] = "latitude2";
 static const char __pyx_k_longitude1[] = "longitude1";
 static const char __pyx_k_longitude2[] = "longitude2";
 static const char __pyx_k_do_circle_cy[] = "do_circle_cy";
-static const char __pyx_k_home_silvio_workshopItau_vtune[] = "/home/silvio/workshopItau/vtune-example/c1.pyx";
+static const char __pyx_k_home_silvio_git_workshop_HPC_ML[] = "/home/silvio/git/workshop-HPC-ML/vtune/c1.pyx";
 static PyObject *__pyx_n_s_a;
 static PyObject *__pyx_n_s_acos;
 static PyObject *__pyx_n_s_b;
@@ -674,7 +674,7 @@ static PyObject *__pyx_n_s_c1;
 static PyObject *__pyx_n_s_cnt;
 static PyObject *__pyx_n_s_cos;
 static PyObject *__pyx_n_s_do_circle_cy;
-static PyObject *__pyx_kp_s_home_silvio_workshopItau_vtune;
+static PyObject *__pyx_kp_s_home_silvio_git_workshop_HPC_ML;
 static PyObject *__pyx_n_s_import;
 static PyObject *__pyx_n_s_latitude1;
 static PyObject *__pyx_n_s_latitude2;
@@ -1209,7 +1209,7 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_cnt, __pyx_k_cnt, sizeof(__pyx_k_cnt), 0, 0, 1, 1},
   {&__pyx_n_s_cos, __pyx_k_cos, sizeof(__pyx_k_cos), 0, 0, 1, 1},
   {&__pyx_n_s_do_circle_cy, __pyx_k_do_circle_cy, sizeof(__pyx_k_do_circle_cy), 0, 0, 1, 1},
-  {&__pyx_kp_s_home_silvio_workshopItau_vtune, __pyx_k_home_silvio_workshopItau_vtune, sizeof(__pyx_k_home_silvio_workshopItau_vtune), 0, 0, 1, 0},
+  {&__pyx_kp_s_home_silvio_git_workshop_HPC_ML, __pyx_k_home_silvio_git_workshop_HPC_ML, sizeof(__pyx_k_home_silvio_git_workshop_HPC_ML), 0, 0, 1, 0},
   {&__pyx_n_s_import, __pyx_k_import, sizeof(__pyx_k_import), 0, 0, 1, 1},
   {&__pyx_n_s_latitude1, __pyx_k_latitude1, sizeof(__pyx_k_latitude1), 0, 0, 1, 1},
   {&__pyx_n_s_latitude2, __pyx_k_latitude2, sizeof(__pyx_k_latitude2), 0, 0, 1, 1},
@@ -1243,7 +1243,7 @@ static int __Pyx_InitCachedConstants(void) {
   __pyx_tuple_ = PyTuple_Pack(12, __pyx_n_s_longitude1, __pyx_n_s_latitude1, __pyx_n_s_longitude2, __pyx_n_s_latitude2, __pyx_n_s_radius, __pyx_n_s_pi, __pyx_n_s_x, __pyx_n_s_a, __pyx_n_s_b, __pyx_n_s_theta, __pyx_n_s_c, __pyx_n_s_cnt); if (unlikely(!__pyx_tuple_)) __PYX_ERR(0, 3, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple_);
   __Pyx_GIVEREF(__pyx_tuple_);
-  __pyx_codeobj__2 = (PyObject*)__Pyx_PyCode_New(4, 0, 12, 0, 0, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple_, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_home_silvio_workshopItau_vtune, __pyx_n_s_do_circle_cy, 3, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__2)) __PYX_ERR(0, 3, __pyx_L1_error)
+  __pyx_codeobj__2 = (PyObject*)__Pyx_PyCode_New(4, 0, 12, 0, 0, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple_, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_home_silvio_git_workshop_HPC_ML, __pyx_n_s_do_circle_cy, 3, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__2)) __PYX_ERR(0, 3, __pyx_L1_error)
   __Pyx_RefNannyFinishContext();
   return 0;
   __pyx_L1_error:;
