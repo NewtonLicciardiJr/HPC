@@ -18,7 +18,7 @@ KNL phi04.ncc.unesp.br
 
   How many nodes area available?
   
-  2. Evaluation matrix transposition in knl
+## 2. Evaluation matrix transposition in knl
     
   2.1 run transpose using mcdram
   
