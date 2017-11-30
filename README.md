@@ -21,7 +21,9 @@ KNL phi04.ncc.unesp.br
   2. Evaluation matrix transposition in knl
     
   2.1 run transpose using mcdram
+  
   2.2 run transpose using dram
+  
   2.3 run transpose in xeon
   
   What execution presents the best execution time?
