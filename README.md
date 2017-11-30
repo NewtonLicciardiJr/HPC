@@ -18,10 +18,10 @@ KNL phi04.ncc.unesp.br
 
   How many nodes area available?
   
-  2. Develop a program in knl
-    transpose
-run transpose using mcdram
-run transpose using dram
-run transpose in xeon
-
-test program in python changing the amount of threads
+  2. Evaluation matrix transposition in knl
+    
+  2.1 run transpose using mcdram
+  2.2 run transpose using dram
+  2.3 run transpose in xeon
+  
+  What execution presents the best execution time?
