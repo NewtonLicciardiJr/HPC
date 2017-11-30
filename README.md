@@ -1,13 +1,24 @@
-# workshop-HPC-ML
+# Hands-on “Working with Intel Xeon and Intel Xeon Phi Architecture”
 
-Source Code of the following presentations:
+Host phi02.ncc.unesp.br
+KNL phi04.ncc.unesp.br
 
-Python for Data Science: NumPy (Accelerated NumPy vs Common NumPy)
+## 1. Understand the environment
+  Execute the following command in the main host and on KNL.
+  ```lscpu```
 
-Introduction to HPC and performance tools & techniques (vectorization, Parallel computing techniques, MPI for python)
+  what are the amount of processors / cores?
+  How much memory is available at each cache level?
 
- Intel Xeon Phi KNL architecture
- 
- Application profiling with VTune
- 
- Hands-on HPC and performance tools & techniques
+  Execute the following comand on KNL:
+  ```numactl –H```
+
+  How many nodes area available?
+  
+  2. Develop a program in knl
+    transpose
+run transpose using mcdram
+run transpose using dram
+run transpose in xeon
+
+test program in python changing the amount of threads
