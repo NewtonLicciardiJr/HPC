@@ -1,5 +1,5 @@
 CXX = icpc
-CXXFLAGS = -g -O3 -fopenmp -DMETHOD=3 -xhost
+CXXFLAGS = -g -O3 -fopenmp -DMETHOD=3 -xHost
 MICFLAGS  = 
 HOSTFLAGS = 
 
